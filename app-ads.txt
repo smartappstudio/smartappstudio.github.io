@@ -204,7 +204,7 @@ smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 inmobi.com, ba5fd3fb82c5412989b23c3eec71baf7, RESELLER, 83e75a7ae333ca9d
 yeahmobi.com, 114490, RESELLER
 zmaticoo.com, 114490, RESELLER
-pangleglobal.com, Account ID, DIRECT
+pangleglobal.com, 5006870, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 ironsrc.com, [yourironSourcePublisherAccountID], Direct
 Remember to replace [yourironSourcePublisherAccountID] with your account ID, which you can get from your account manager.
