@@ -563,7 +563,7 @@ video.unrulymedia.com, 764922532, RESELLER
 dauup.com, 34103, RESELLER
 smartadserver.com, 3232, RESELLER, 060d053dcf45cbf3
 
-vungle.com,[yourVunglePublisherAccountID],DIRECT,c107d686becd2d77
+vungle.com,62c7f69cfb1993001aac985e,DIRECT,c107d686becd2d77
 152media.info,152M312,RESELLER
 Adform.com,2742,RESELLER
 Pubmatic.com,162882,RESELLER,5d62403b186f2ace
